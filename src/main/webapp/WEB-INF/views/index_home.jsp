@@ -63,7 +63,7 @@
 
   <!-- Project Section -->
   <div class="container w3-padding-32" id="technologies">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16" align="center">TECHNOLOGIES</h3>
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16" align="center">THINKNEW TECHNOLOGIES</h3>
   </div>
 
   <div class="w3-row-padding">
